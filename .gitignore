@@ -1,0 +1,6 @@
+.DS_Store
+wow.txt
+
+#ignored files
+
+*.pdf
